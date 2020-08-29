@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory>
+        <DropDownPreference
+            android:key="drop_down_cat"
+            android:title="Category"
+            android:entries="@array/cat"
+            android:entryValues="@array/cat_values"/>
+
+        <DropDownPreference
+            android:key="drop_down_difficulty"
+            android:title="Difficulty"
+            android:entries="@array/difficulty"
+            android:entryValues="@array/difficulty_values" />
+
+        <DropDownPreference
+            android:key="drop_down_total_ques"
+            android:title="Total Questions"
+            android:entries="@array/total_ques"
+            android:entryValues="@array/total_ques_values" />
+
+        <DropDownPreference
+            android:key="drop_down_type"
+            android:title="Type"
+            android:entries="@array/type"
+            android:entryValues="@array/type_values" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

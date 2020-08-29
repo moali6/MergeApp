@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cat">
+        <item>History</item>
+        <item>Geography</item>
+    </string-array>
+    <string-array name="cat_values">
+        <item>History</item>
+        <item>Geography</item>
+    </string-array>
+    <string-array name="type">
+        <item>Multiple</item>
+        <item>True and False</item>
+    </string-array>
+    <string-array name="type_values">
+        <item>Multiple</item>
+        <item>True and False</item>
+    </string-array>
+    <string-array name="difficulty">
+        <item>Easy</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="difficulty_values">
+        <item>Easy</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="total_ques">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="total_ques_values">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+</resources>
